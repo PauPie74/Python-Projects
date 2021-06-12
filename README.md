@@ -1,5 +1,5 @@
 # Python-Projects
-Various projects written in Python programming language that are not related to any specific course.
+Various projects written in Python programming language.
 
 ## Directories:
 
