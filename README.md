@@ -21,4 +21,6 @@ Found issues:
 ### Fiction versus Nonfiction: The linguistic analysis of "The Wreck of the Titan" and "A Night to Remember"
 > June 2021
 
-An essay made with Jupyter Notebook. It is a linguistic analysis of literary fiction and non-fiction on the same topic that is a sinking of a ship.
+An essay created with Jupyter Notebook. It is a linguistic analysis of two texts, in both of them the common feature is that there is a ship which sunk.
+One text is a literary fiction (*"The Wreck of the Titan"*) and the other is a non-fiction (*"A Night to Remember"*).
+
