@@ -23,5 +23,6 @@ Found issues:
 
 An essay created with Jupyter Notebook. It is a linguistic analysis of two texts, in both of them the common feature is that there is a ship which sunk.
 One text is a literary fiction (*"The Wreck of the Titan"*) and the other is a non-fiction (*"A Night to Remember"*).
+
 DISCLAIMER: a-night-to-remember.txt is uploaded only for research purposes.
 
