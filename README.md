@@ -17,8 +17,14 @@ Found issues:
 * Morse code does not decrypt correclty when more spaces are added between words
 * During the decryption of affine cipher, the user has to input the a and b value
 
-## Files:
-### Fiction versus Nonfiction: The linguistic analysis of "The Wreck of the Titan" and "A Night to Remember"
+### Codewars
+
+A directory contains training challenges from Codewars.com.
+
+### Jupyter Notebook
+
+#### Files:
+##### Fiction versus Nonfiction: The linguistic analysis of "The Wreck of the Titan" and "A Night to Remember"
 > June 2021
 
 An essay created with Jupyter Notebook. It is a linguistic analysis of two texts, in both of them the common feature is that there is a ship which sunk.
