@@ -1,0 +1,3 @@
+word = input('Podaj wyraz\n')
+#programiści numerują od zera, tzn. Michał, M=0, i=2...
+print('Pierwsza litera to',word[0],)
