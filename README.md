@@ -1,6 +1,13 @@
 # Python-Projects
 Various projects written in Python programming language.
 
+## Akademia-Kodu
+>October 2020
+
+Python exercises from the training course 'Podstawy Pythona' organized by Akademia Kodu.
+
+**Contents of this directory are in Polish.**
+
 ## CIPHER DENcoder
 >June 2021
 
@@ -17,7 +24,11 @@ Found issues:
 
 ## Codewars
 
-A directory contains training challenges from Codewars.com.
+This directory contains training challenges from [Codewars.com](https://www.codewars.com/users/PauPie74).
+
+## Google Machine Learning Crash Course
+
+This directory contains the training material from [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 
 ## Jupyter Notebook
 
@@ -30,3 +41,6 @@ One text is a literary fiction (*"The Wreck of the Titan"*) and the other is a n
 
 DISCLAIMER: a-night-to-remember.txt is uploaded only for research purposes.
 
+## Training
+
+Various .py files that were created as a result of my training. Most of them contain code realted to a specific module based on online tutorials. They do not aim to be more than just a training so an execution of a code can produce absurd results. It is like a **playground**.
