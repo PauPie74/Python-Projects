@@ -43,4 +43,4 @@ DISCLAIMER: a-night-to-remember.txt is uploaded only for research purposes.
 
 ## Training
 
-Various .py files that were created as a result of my training. Most of them contain code realted to a specific module based on online tutorials. They do not aim to be more than just a training so an execution of a code can produce absurd results. It is like a **playground**.
+Various .py files that were created as a result of my training. Most of them contain code realted to a specific module based on online tutorials. They do not aim to be more than just a training so an execution of a code can produce absurd results.
