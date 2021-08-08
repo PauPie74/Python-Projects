@@ -26,6 +26,8 @@ Found issues:
 
 This directory contains training challenges from [Codewars.com](https://www.codewars.com/users/PauPie74).
 
+![alt text](https://www.codewars.com/users/PauPie74/badges/small "Codewars Badge")
+
 ## Google Machine Learning Crash Course
 
 This directory contains the training material from [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
@@ -43,4 +45,4 @@ DISCLAIMER: a-night-to-remember.txt is uploaded only for research purposes.
 
 ## Training
 
-Various .py files that were created as a result of my training. Most of them contain code realted to a specific module based on online tutorials. They do not aim to be more than just a training so an execution of a code can produce absurd results.
+Various .py files that were created as a result of my training. Most of them contain code realted to a specific module and are based on online tutorials. They do not aim to be more than just a training so an execution of a code can produce absurd results.
