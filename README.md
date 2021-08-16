@@ -43,6 +43,6 @@ One text is a literary fiction (*"The Wreck of the Titan"*) and the other is a n
 
 DISCLAIMER: a-night-to-remember.txt is uploaded only for research purposes.
 
-## Training
+## Playground
 
 Various .py files that were created as a result of my training. Most of them contain code realted to a specific module and are based on online tutorials. They do not aim to be more than just a training so an execution of a code can produce absurd results.
