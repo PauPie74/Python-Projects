@@ -14,10 +14,6 @@ This directory contains training challenges from [Codewars.com](https://www.code
 
 ![alt text](https://www.codewars.com/users/PauPie74/badges/small "Codewars Badge")
 
-## Google Machine Learning Crash Course
-
-This directory contains the training material from [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
-
 ## Jupyter Notebook
 
 ### Files:
